@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/SOOBEENKIM" target="_blank">That's One</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/SOOBEENKIM" target="_blank">SOOBEEN KIM</a> 👋</h1>
 <h3 align="center">🚀 Passionate about AI, Engineering & Open Source</h3>
 
 <p align="center">
