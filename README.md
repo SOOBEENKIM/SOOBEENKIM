@@ -66,6 +66,7 @@
 
 - 💻 **P2P Loan Approval Prediction (SVM Model)**  
   Built a classification model using SVM to predict loan approval decisions based on borrower-level financial attributes from real-world P2P lending data.
+  https://github.com/SOOBEENKIM/P2P_Loan.git
 
 - 💻 **Used Car Price Prediction (Ensemble Models)**  
   Applied Random Forest and AdaBoost regression to predict used car market prices. Preprocessed real-world listings and evaluated performance using RMSE.
