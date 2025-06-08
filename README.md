@@ -63,6 +63,7 @@
 
 - 🤖 **Digital Literacy Startup Proposal using ChatGPT**  
   Proposed a digital literacy education service powered by ChatGPT. Designed curriculum frameworks targeting students and non-technical users.
+  https://github.com/SOOBEENKIM/DigitalLiteracy.git
 
 - 💻 **P2P Loan Approval Prediction (SVM Model)**  
   Built a classification model using SVM to predict loan approval decisions based on borrower-level financial attributes from real-world P2P lending data.
