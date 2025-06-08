@@ -29,15 +29,18 @@
   Applied LSTM and Transformer models to dynamically rank 19 commodity futures based on basis-momentum (BMOM), a hybrid factor combining momentum and term structure.
   https://github.com/SOOBEENKIM/Commodity-Factors.git
 
+- 🧾 **Deep Learning-Based Malware Generation and Classification**
+Developed an LSTM-based sequence autoencoder to extract latent vectors from malicious Python code across 11 behavioral types. Trained a conditional GAN (CGAN) to generate malware-type-specific latent vectors, which were decoded back to source code using autoencoder decoders. Evaluated classification accuracy, reconstruction error, and semantic consistency of generated samples.
+
 - 🧾 **Impact of Audit Reform on MD&A Tone and Performance Deviations**  
   Conducted a text mining analysis to quantify tone shifts in MD&A before and after Korea’s New External Audit Act. Used Difference-in-Differences methodology to show significant increases in abnormal tone post-reform, suggesting improved strategic language use and enhanced investor transparency.
-
-- 🧾 **Experimental Design Using MINITAB: Cold-Temperature Adhesion Study**  
-  Applied a 2⁷⁻³ fractional factorial DOE to analyze effects of phosphoric acid deoxidizer, neutralizer concentration/time, and adhesion promoters on aluminum bonding strength at –65°F. Identified significant factor interactions impacting low-temp peel strength.
 
 - 🧾 **Volatility Prediction for Bitcoin using LSTM-GARCH Hybrid Model**  
   Integrated LSTM and GARCH models to jointly predict return and volatility of Bitcoin. Demonstrated improved forecasting accuracy under high volatility regimes.
   [https://github.com/SOOBEENKIM/LSTM-GARCH.git](https://github.com/SOOBEENKIM/LSTM-GARCH.git)
+
+- 🧾 **Experimental Design Using MINITAB: Cold-Temperature Adhesion Study**  
+  Applied a 2⁷⁻³ fractional factorial DOE to analyze effects of phosphoric acid deoxidizer, neutralizer concentration/time, and adhesion promoters on aluminum bonding strength at –65°F. Identified significant factor interactions impacting low-temp peel strength.
 
 - 🌱 **Impact Business Project: Coffee Grounds Upcycling**  
   Developed a solution to encourage coffee shops to participate in spent grounds collection through a subscription model and eco-friendly platform. The initiative aimed to raise public awareness of coffee waste as a recyclable resource.
