@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&width=500&lines=AI+%7C+Finance+%7C+Optimization;Security+%7C+Data+Mining+%7C+Forecasting;Time+Series+%7C+NLP+%7C+ML" alt="Typing SVG" />
 </p>
 
-### 📊 GitHub Stats
-![Soobeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=soobeenkim&show_icons=true&theme=radical)
-
 ---
 
 ### 🎓 About Me
