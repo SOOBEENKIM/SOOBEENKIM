@@ -58,12 +58,15 @@
 - 💻 **OOP Projects – Game Development in Java**  
   Built generalized rock-paper-scissors game and a “catch-the-mouse” strategy game in Java as part of team assignments in object-oriented programming.
 
-- 💻 **Time Series Forecasting: ARMA for Air Passenger Demand**  
-  Forecasted monthly air passenger volume using ARMA modeling. Evaluated forecasting accuracy and seasonality components.
-
 - 🤖 **Digital Literacy Startup Proposal using ChatGPT**  
   Proposed a digital literacy education service powered by ChatGPT. Designed curriculum frameworks targeting students and non-technical users.
   https://github.com/SOOBEENKIM/DigitalLiteracy.git
+
+- 💻 **Time Series Forecasting: ARMA for Air Passenger Demand**  
+  Forecasted monthly air passenger volume using ARMA modeling. Evaluated forecasting accuracy and seasonality components.
+
+- 💻 **Financial Engineering Projects**  
+  Modern Portfolio Theory, CAPM and Factor Model, Closed-form BlackScholesMerton pricing model, Binomial tree
 
 - 💻 **P2P Loan Approval Prediction (SVM Model)**  
   Built a classification model using SVM to predict loan approval decisions based on borrower-level financial attributes from real-world P2P lending data.
