@@ -53,6 +53,7 @@
   Designed ion-exchange resins using plant-based cellulose to selectively absorb lithium ions from seawater. Compared Li absorption efficiency across different functional groups and bead formation conditions.
 - 🧪 **STEAM R&E : Gill-Inspired Fine Dust Capture Device**  
   Designed a cross-step filtration system modeled after fish gill structures to capture fine dust in vehicle exhaust. Used SolidWorks and Flow Design to simulate fluid flow, and built a detachable .STL-based prototype optimized for safety and energy efficiency.
+  https://github.com/SOOBEENKIM/DustCapture-Device.git
 - 🧪 **Acoustic Phase Control for Directional Speakers (Physics)**  
   Developed a directional sound system using acoustic phase control. Applied MATLAB to optimize speaker array configurations and control signal origin with function generator input.
 
