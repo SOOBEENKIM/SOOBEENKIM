@@ -13,6 +13,9 @@
 - 📌 Graduating soon and preparing for graduate-level research
 - 🧪 Ongoing research:  
   **“Enhancing commodity factor strategies with deep learning: evidence from basis-momentum”** (Submitted for international publication)
+  ```
+  https://github.com/SOOBEENKIM/Commodity-Factors.git
+  ```
 - 💡 Interested in:
   - Investment Science, Time Series Forecasting, Data Mining  
   - Artificial Intelligence (AI), Cybersecurity, Data Analytics  
@@ -24,6 +27,7 @@
 
 - 🧾 **Enhancing Commodity Factor Strategies with Deep Learning**  
   Applied LSTM and Transformer models to dynamically rank 19 commodity futures based on basis-momentum (BMOM), a hybrid factor combining momentum and term structure.
+  https://github.com/SOOBEENKIM/Commodity-Factors.git
 
 - 🧾 **Impact of Audit Reform on MD&A Tone and Performance Deviations**  
   Conducted a text mining analysis to quantify tone shifts in MD&A before and after Korea’s New External Audit Act. Used Difference-in-Differences methodology to show significant increases in abnormal tone post-reform, suggesting improved strategic language use and enhanced investor transparency.
