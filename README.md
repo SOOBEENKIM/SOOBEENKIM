@@ -2,7 +2,7 @@
 <h3 align="center">📊 Industrial Engineering @ Hanyang University | AI, Time Series & Financial Data Researcher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&center=true&width=500&lines=Deep+Learning+%E2%9D%97+Finance+%E2%9D%97+AI+%E2%9D%97+Optimization+%E2%9D%97+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&center=true&width=500&lines=DeepLearning+%E2%9D%97+Finance+%E2%9D%97+AI+%E2%9D%97+Optimization+%E2%9D%97+Security" alt="Typing SVG" />
 </p>
 
 ---
