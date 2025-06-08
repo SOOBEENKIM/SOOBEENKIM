@@ -13,6 +13,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&width=450&lines=Time+Series+%7C+Forecasting+%7C" alt="Typing SVG" />
 </p>
 
+### 📊 GitHub Stats
+![Soobeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=soobeenkim&show_icons=true&theme=radical)
+
+### 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soobeenkim&layout=compact)
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+...
+
 ---
 
 ### 🎓 About Me
