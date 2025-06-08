@@ -57,6 +57,7 @@
 
 - 💻 **Q-Learning in Maze Navigation (Numerical Analysis Project)**  
   Explored the effect of discount factor (gamma) on Q-learning convergence when solving a maze. Analyzed exploration-exploitation tradeoffs using MATLAB; found minimal difference in convergence time on small maps.
+  https://github.com/SOOBEENKIM/Q-Learning.git
 
 - 📊 **Project Management Engineering – Seminar Presentation**  
   Delivered a presentation on *“Make Megaprojects More Modular”*, discussing modularization benefits in large-scale engineering projects.
