@@ -19,26 +19,21 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
 <!-- Machine Learning / Deep Learning -->
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=flat-square&logo=xgboost&logoColor=white)
-
 <!-- Time Series / Statistics -->
 ![ARIMA](https://img.shields.io/badge/ARIMA-4B8BBE?style=flat-square)
 ![GARCH](https://img.shields.io/badge/GARCH-5C2D91?style=flat-square)
 ![LSTM](https://img.shields.io/badge/LSTM-006400?style=flat-square)
 ![MINITAB](https://img.shields.io/badge/MINITAB-005B9F?style=flat-square)
 ![STATA](https://img.shields.io/badge/STATA-009FDA?style=flat-square)
-
 <!-- Visualization -->
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=flat-square)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square)
-
 <!-- Tools -->
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
