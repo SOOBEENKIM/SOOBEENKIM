@@ -39,6 +39,7 @@
 
 - 🧾 **Volatility Prediction for Bitcoin using LSTM-GARCH Hybrid Model**  
   Integrated LSTM and GARCH models to jointly predict return and volatility of Bitcoin. Demonstrated improved forecasting accuracy under high volatility regimes.
+  https://github.com/SOOBEENKIM/LSTM-GARCH.git
 
 - 🌱 **Impact Business Project: Coffee Grounds Upcycling**  
   Developed a solution to encourage coffee shops to participate in spent grounds collection through a subscription model and eco-friendly platform. The initiative aimed to raise public awareness of coffee waste as a recyclable resource.
