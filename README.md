@@ -64,6 +64,8 @@
 
 - 💻 **Financial Engineering Projects**  
   Modern Portfolio Theory, CAPM and Factor Model, Closed-form BlackScholesMerton pricing model, Binomial tree
+  https://github.com/SOOBEENKIM/FinancialEngineering1.git / 
+  https://github.com/SOOBEENKIM/FinancialEngineering2.git
 
 - 💻 **P2P Loan Approval Prediction (SVM Model)**  
   Built a classification model using SVM to predict loan approval decisions based on borrower-level financial attributes from real-world P2P lending data.
