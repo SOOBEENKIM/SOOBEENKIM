@@ -30,7 +30,9 @@
   https://github.com/SOOBEENKIM/Commodity-Factors.git
 
 - 🧾 **Deep Learning-Based Malware Generation and Classification**
-Developed an LSTM-based sequence autoencoder to extract latent vectors from malicious Python code across 11 behavioral types. Trained a conditional GAN (CGAN) to generate malware-type-specific latent vectors, which were decoded back to source code using autoencoder decoders. Evaluated classification accuracy, reconstruction error, and semantic consistency of generated samples.
+  Developed an LSTM-based sequence autoencoder to extract latent vectors from malicious Python code across 11 behavioral types. Trained a conditional GAN (CGAN) to generate malware-type-specific latent vectors, which were decoded back to source code using autoencoder decoders. Evaluated classification accuracy, reconstruction error, and semantic consistency of generated samples.
+  https://github.com/SOOBEENKIM/Malware_Classification-and-Generation.git
+
 
 - 🧾 **Impact of Audit Reform on MD&A Tone and Performance Deviations**  
   Conducted a text mining analysis to quantify tone shifts in MD&A before and after Korea’s New External Audit Act. Used Difference-in-Differences methodology to show significant increases in abnormal tone post-reform, suggesting improved strategic language use and enhanced investor transparency.
