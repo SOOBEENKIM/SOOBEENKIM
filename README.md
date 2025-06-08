@@ -47,7 +47,8 @@
 - 🌱 **Impact Business Project: Coffee Grounds Upcycling**  
   Developed a solution to encourage coffee shops to participate in spent grounds collection through a subscription model and eco-friendly platform. The initiative aimed to raise public awareness of coffee waste as a recyclable resource.
 - 🧪 **Steam R&E : Microbiome Analysis in Fermented Foods**  
-  Investigated microbial diversity changes in Korean fermented foods (cheonggukjang, jeotgal, kimchi) across fermentation periods using 16S rRNA sequencing via Ion Torrent and Ion Reporter pipelines. Results showed pH/salinity-driven shifts in microbiome structures.  
+  Investigated microbial diversity changes in Korean fermented foods (cheonggukjang, jeotgal, kimchi) across fermentation periods using 16S rRNA sequencing via Ion Torrent and Ion Reporter pipelines. Results showed pH/salinity-driven shifts in microbiome structures.
+  https://github.com/SOOBEENKIM/Microbiome-Analysis.git
 - 🧪 **Frontier Chemistry: Lithium Extraction from Seawater**  
   Designed ion-exchange resins using plant-based cellulose to selectively absorb lithium ions from seawater. Compared Li absorption efficiency across different functional groups and bead formation conditions.
 - 🧪 **STEAM R&E : Gill-Inspired Fine Dust Capture Device**  
