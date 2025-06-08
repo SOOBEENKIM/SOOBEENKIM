@@ -79,9 +79,13 @@
 ### ⚙️ Tech Stack
 
 ```bash
-💻 Languages:   Python | R | C | C++ | Java | SQL  
-📊 Tools:       Pandas | NumPy | Scikit-learn | TensorFlow | Keras | XGBoost | PyTorch
-🧠 Models & ML Techniques: LSTM | GAN | GARCH | NLP | Time Series Forecasting | Statistical Modeling (R, STATA, MINITAB)
-🛠️ Tools & Platforms:   Git | GitHub | Jupyter | VS Code | Anaconda | Docker  
-🧮 Fields:      Investment Science | Financial Engineering | Time Series | Forecasting | Machine Learning | Data Mining | 
-                 Optimization | Cybersecurity | ADSP
+💻 Languages:
+Python | R | C | C++ | Java | SQL  
+📊 Tools:
+Pandas | NumPy | Scikit-learn | TensorFlow | Keras | XGBoost | PyTorch
+🧠 Models & ML Techniques:
+LSTM | GAN | GARCH | NLP | Time Series Forecasting | Statistical Modeling (R, STATA, MINITAB)
+🛠️ Tools & Platforms:
+Git | GitHub | Jupyter | VS Code | Anaconda | Docker  
+🧮 Fields:
+Investment Science | Financial Engineering | Time Series | Forecasting | Machine Learning | Data Mining | Optimization | Cybersecurity | ADSP
