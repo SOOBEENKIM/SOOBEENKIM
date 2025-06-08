@@ -70,6 +70,7 @@
 
 - 💻 **Used Car Price Prediction (Ensemble Models)**  
   Applied Random Forest and AdaBoost regression to predict used car market prices. Preprocessed real-world listings and evaluated performance using RMSE.
+  https://github.com/SOOBEENKIM/UsedCar_Adaboost.git
 
 ---
 
