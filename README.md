@@ -21,6 +21,8 @@
   - Artificial Intelligence (AI), Cybersecurity, Data Analytics  
   - Financial Engineering, Optimization, Operations Research
 
+- 💻 ORCID
+https://orcid.org/0009-0004-7688-1921
 ---
 
 ### 🧠 Research & Projects
@@ -28,6 +30,8 @@
 - 🧾 **Enhancing Commodity Factor Strategies with Deep Learning**  
   Applied LSTM and Transformer models to dynamically rank 19 commodity futures based on basis-momentum (BMOM), a hybrid factor combining momentum and term structure.
   https://github.com/SOOBEENKIM/Commodity-Factors.git
+  https://submission.wiley.com/submission/submissionBoard/a04a9c0d-b103-4f8b-825b-c716ef4bc08d/finalReview
+  
 
 - 🧾 **Deep Learning-Based Malware Generation and Classification**
   Developed an LSTM-based sequence autoencoder to extract latent vectors from malicious Python code across 11 behavioral types. Trained a conditional GAN (CGAN) to generate malware-type-specific latent vectors, which were decoded back to source code using autoencoder decoders. Evaluated classification accuracy, reconstruction error, and semantic consistency of generated samples.
