@@ -47,8 +47,6 @@ My interests center on **financial machine learning, time series analysis, and d
 
 #### Enhancing Commodity Factor Strategies with Deep Learning
 
-*Completed research project*
-
 Applied LSTM and Transformer models to dynamically rank 19 commodity futures based on basis-momentum (BMOM), a hybrid factor combining momentum and term structure.
 [Code](https://github.com/SOOBEENKIM/Commodity-Factors)
 
