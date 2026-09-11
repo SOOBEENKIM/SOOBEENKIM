@@ -32,7 +32,7 @@ My interests center on **financial machine learning, time series analysis, and d
 | :--- | :--- | :--- |
 | **Stablecoins** | Stablecoin research | Ongoing research |
 | **Data Generation** | Data generation research | Ongoing research |
-| **Equity-Linked Securities (ELS)** | Industry-sponsored ELS project | Ongoing collaboration |
+| **Neural ELS Hedging** | Neural network–based optimal control for ELS hedging | Ongoing collaboration |
 
 ## Competitions & Achievements
 
