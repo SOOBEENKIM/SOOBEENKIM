@@ -23,9 +23,9 @@
 
 ---
 
-I am a graduate student in Industrial Engineering at **Hanyang University**, working in financial engineering. After completing my bachelor's degree at Hanyang, I continued into the integrated M.S.–Ph.D. program.
+I am a second-semester student in the **integrated M.S.–Ph.D. program in Industrial Engineering at Hanyang University**, affiliated with **FINX Lab**. I earned my bachelor’s degree in Industrial Engineering at Hanyang and joined FINX Lab as an undergraduate researcher before continuing my graduate studies in the same lab.
 
-My interests center on **financial machine learning, time series analysis, and data generation**. I am currently working on **stablecoins**, **data generation**, and an **ELS industry project**.
+My research interests lie in **financial machine learning, time series analysis, data generation, and LLM-based agents**.
 
 ## Current Focus
 
