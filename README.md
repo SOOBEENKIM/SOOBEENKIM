@@ -10,6 +10,7 @@
 <p align="center">
   <a href="https://finx.hanyang.ac.kr/members/students"><img src="https://img.shields.io/badge/FINX-Lab-173B53?style=flat-square" alt="FINX Lab" /></a>
   <a href="https://github.com/finxlab"><img src="https://img.shields.io/badge/Lab-GitHub-173B53?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Lab GitHub" /></a>
+  <a href="https://www.linkedin.com/in/soobeen-kim-b77110302"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>
   <a href="https://orcid.org/0009-0004-7688-1921"><img src="https://img.shields.io/badge/ORCID-0009--0004--7688--1921-517A24?style=flat-square&amp;logo=orcid&amp;logoColor=white" alt="ORCID: 0009-0004-7688-1921" /></a>
 </p>
 
@@ -28,11 +29,12 @@ My interests center on **financial machine learning, time series analysis, and d
 
 ## Current Focus
 
-| Research / collaboration | Focus | Status |
+| Research / collaboration | Focus / role | Status |
 | :--- | :--- | :--- |
 | **Stablecoins** | Stablecoin research | Ongoing research |
 | **Data Generation** | Data generation research | Ongoing research |
 | **Neural ELS Hedging** | Neural network–based optimal control for ELS hedging | Ongoing collaboration |
+| **WorldQuant BRAIN** | Research Consultant | Current role |
 
 ## Competitions & Achievements
 
