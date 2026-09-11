@@ -9,6 +9,7 @@
 
 <p align="center">
   <a href="https://finx.hanyang.ac.kr/members/students"><img src="https://img.shields.io/badge/FINX-Lab-173B53?style=flat-square" alt="FINX Lab" /></a>
+  <a href="https://github.com/finxlab"><img src="https://img.shields.io/badge/Lab-GitHub-173B53?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Lab GitHub" /></a>
   <a href="https://orcid.org/0009-0004-7688-1921"><img src="https://img.shields.io/badge/ORCID-0009--0004--7688--1921-517A24?style=flat-square&amp;logo=orcid&amp;logoColor=white" alt="ORCID: 0009-0004-7688-1921" /></a>
 </p>
 
