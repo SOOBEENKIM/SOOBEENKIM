@@ -41,7 +41,7 @@ My research interests lie in **financial machine learning, time series analysis,
 | Competition | Result / status |
 | :--- | :--- |
 | **KDD Competition** | 🏆 **1st Place** |
-| **Mirae Asset AI Festival** | Participated · Results pending |
+| **Mirae Asset AI Festival** · [Code](https://github.com/SOOBEENKIM/MiraeAsset_AI_Festival) | Participated · Results pending |
 
 ## Selected Research Projects
 
