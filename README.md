@@ -69,7 +69,7 @@ Developed an LSTM-based sequence autoencoder to extract latent vectors from mali
 A collection of projects spanning quantitative finance, data science, optimization, experimental research, software, and interdisciplinary design. Expand each category to explore the projects.
 
 <details>
-<summary><b>Quantitative Finance, Data Science & Optimization</b> · 6 projects</summary>
+<summary><b>Quantitative Finance, Data Science & Optimization</b> · 7 projects</summary>
 
 #### Financial Engineering Projects
 
@@ -100,6 +100,11 @@ Explored the effect of discount factor (gamma) on Q-learning convergence when so
 
 Implemented and evaluated genetic algorithms for the 280-node TSPLIB a280 drilling-route problem as a course project in Heuristic Optimization. Compared search variants, convergence, and runtime across multiple random seeds; a GA with 2-opt local search matched the best-known tour length of 2,579.
 [Code](https://github.com/SOOBEENKIM/Heuristic-Optimization)
+
+#### Reliability Engineering: Fault Classification in Rock Drills
+
+Analyzed three-channel pressure signals from hydraulic rock drills to distinguish normal operation and ten fault types in a Reliability Engineering course project. Engineered interpretable signal features and compared Random Forest and time-series classifiers under leave-one-individual-out validation. Explored an X-vector–Random Forest ensemble and analyzed feature distribution shifts and classification errors.
+[Code](https://github.com/SOOBEENKIM/Fault-Classification-in-Rock-Drills)
 
 </details>
 
