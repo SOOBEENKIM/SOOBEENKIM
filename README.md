@@ -66,10 +66,10 @@ Developed an LSTM-based sequence autoencoder to extract latent vectors from mali
 
 ## Project Collection
 
-A collection of projects spanning quantitative finance, data science, experimental research, software, and interdisciplinary design. Expand each category to explore the projects.
+A collection of projects spanning quantitative finance, data science, optimization, experimental research, software, and interdisciplinary design. Expand each category to explore the projects.
 
 <details>
-<summary><b>Quantitative Finance & Data Science</b> · 5 projects</summary>
+<summary><b>Quantitative Finance, Data Science & Optimization</b> · 6 projects</summary>
 
 #### Financial Engineering Projects
 
@@ -95,6 +95,11 @@ Applied Random Forest and AdaBoost regression to predict used car market prices.
 
 Explored the effect of discount factor (gamma) on Q-learning convergence when solving a maze. Analyzed exploration-exploitation tradeoffs using MATLAB; found minimal difference in convergence time on small maps.
 [Code](https://github.com/SOOBEENKIM/Q-Learning)
+
+#### Heuristic Optimization
+
+Implemented and evaluated genetic algorithms for the 280-node TSPLIB a280 drilling-route problem as a course project in Heuristic Optimization. Compared search variants, convergence, and runtime across multiple random seeds; a GA with 2-opt local search matched the best-known tour length of 2,579.
+[Code](https://github.com/SOOBEENKIM/Heuristic-Optimization)
 
 </details>
 
