@@ -175,10 +175,11 @@ Investment Science · Financial Engineering · Forecasting · Machine Learning �
 
 ## Education
 
-- **Hanyang University — Integrated M.S.–Ph.D. in Industrial Engineering**  
-  Currently enrolled · Master's stage
-- **Hanyang University — Bachelor's degree in Industrial Engineering**  
-  Graduated
+| Period | Institution | Degree / Program | Status |
+| :--- | :--- | :--- | :---: |
+| 2026.03 – Present | **Hanyang University**<br>FINX Lab | **Integrated M.S.–Ph.D.**<br>Industrial Engineering · Master's stage | ![Enrolled](https://img.shields.io/badge/Enrolled-173B53?style=flat-square) |
+| 2020.03 – 2026.02 | **Hanyang University** | **Bachelor's degree**<br>Industrial Engineering | ![Graduated](https://img.shields.io/badge/Graduated-6B7280?style=flat-square) |
+| 2017.03 – 2020.02 | **IASA**<br>Incheon Academy of Science & Arts | High School | ![Graduated](https://img.shields.io/badge/Graduated-6B7280?style=flat-square) |
 
 ---
 
